@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TimofeiKor
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning html, css and js
+- 👀 I’m interested in web development, Python-programming
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on my friend
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i love latte :)
