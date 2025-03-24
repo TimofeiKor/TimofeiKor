@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TimofeiKor
-- 👀 I’m interested in web development, Python-programming
+- 👀 I’m interested in Python programming-developing
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on my friend
 - 😄 Pronouns: he/him
