@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TimofeiKor
-- 👀 I’m interested in Python programming-developing
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on my friend
+- 👀 I’m interested in Java programming-developing
+- 🌱 I’m currently learning Java
+- 💞️ I’m not looking to collaborate
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i love latte :)
 
