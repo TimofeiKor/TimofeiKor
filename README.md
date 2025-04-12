@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TimofeiKor
-- 👀 I’m interested in Java programming-developing
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
 - 💞️ I’m not looking to collaborate
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i love latte :)
